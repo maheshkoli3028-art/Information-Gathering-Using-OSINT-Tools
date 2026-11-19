@@ -16,8 +16,9 @@ Table of Contents
 10.	 Methodology
 11.	 Security, Ethics, and Limitations
 12.	 Conclusion
-13.	Appendix A — Suggested GitHub Structure 
-1. Introduction
+13.	Appendix A — Suggested GitHub Structure
+    
+*1. Introduction*
 Information gathering is an early phase of a cybersecurity assessment. It involves collecting and reviewing publicly available information about a domain, organization, or its internet-facing presence. Open-Source Intelligence (OSINT) refers to information collected from public sources and analyzed for a specific purpose.
 This project demonstrates five beginner-friendly tools and techniques: WHOIS, theHarvester, nslookup, Google Dorking, and Subfinder. The practical work focuses on passive collection and documentation rather than exploitation or unauthorized access.
 Project Details
