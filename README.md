@@ -82,11 +82,7 @@ D. Purpose
 •	Record which information is hidden or unavailable.
 E. Output Showing
 <img width="1000" height="625" alt="image" src="https://github.com/user-attachments/assets/77199a0d-654f-44e7-9559-a84822001730" />
-
- 
- 
-
-
+<img width="1000" height="625" alt="image" src="https://github.com/user-attachments/assets/18e7c52f-30af-427e-8706-d08f9499f925" />
 
  5. Practical — theHarvester
 A. Description
