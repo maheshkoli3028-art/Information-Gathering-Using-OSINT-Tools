@@ -18,7 +18,7 @@ Table of Contents
 12.	 Conclusion
 13.	Appendix A — Suggested GitHub Structure
     
-*1. Introduction*
+# 1. Introduction
 Information gathering is an early phase of a cybersecurity assessment. It involves collecting and reviewing publicly available information about a domain, organization, or its internet-facing presence. Open-Source Intelligence (OSINT) refers to information collected from public sources and analyzed for a specific purpose.
 This project demonstrates five beginner-friendly tools and techniques: WHOIS, theHarvester, nslookup, Google Dorking, and Subfinder. The practical work focuses on passive collection and documentation rather than exploitation or unauthorized access.
 Project Details
@@ -31,7 +31,7 @@ Target	A domain owned by the student or explicitly authorized for assessment
 Main Output	Command outputs, observations, screenshots, and recommendations
 
 
- 2. Project Objectives and Scope
+# 2. Project Objectives and Scope
 •	Understand the role of OSINT and passive reconnaissance in cybersecurity.
 •	Collect public domain registration information with WHOIS.
 •	Use theHarvester to review publicly discoverable hostnames and other available information.
@@ -42,7 +42,7 @@ Main Output	Command outputs, observations, screenshots, and recommendations
 Scope and Authorization
 Use a domain you own or have explicit permission to assess. example.com is a reserved example domain that can be used to understand commands, but its results may be limited and will not represent a full real-world assessment. Do not attempt to log in to discovered services, exploit systems, bypass access controls, or access private information.
 
- 3. Lab Setup and Tool Installation
+# 3. Lab Setup and Tool Installation
 Open a terminal in Kali Linux and update the package lists:
 sudo apt update
 sudo apt upgrade
@@ -61,8 +61,8 @@ mkdir -p ~/information-gathering-project/evidence
 cd ~/information-gathering-project
 Replace example.com in the commands with your authorized assessment domain.
 
- 4. Practical — WHOIS Enumeration
-A. Description
+# 4. Practical — WHOIS Enumeration
+*A. Description*
 WHOIS is a protocol and lookup service used to retrieve domain registration information. Depending on the registry and privacy settings, output may include the registrar, registration dates, name servers, status, and registrant details.
 B. Commands to Perform
 whois example.com
