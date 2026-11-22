@@ -1,4 +1,7 @@
 # Information-Gathering-Using-OSINT-Tools
+A practical cybersecurity project focused on information gathering using OSINT tools. Covers domain reconnaissance, WHOIS lookup, DNS enumeration, subdomain discovery, Google Dorking, and identifying publicly available information to understand an organization's digital footprint and potential attack surface.
+
+# Information-Gathering-Using-OSINT-Tools
 Information Gathering
 Using OSINT Tools
 WHOIS  •  theHarvester  •  nslookup  •  Google Dorking  •  Subfinder
